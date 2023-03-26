@@ -10,4 +10,10 @@ PronHub会员
 feature1
 修改main分支上的内容
 第二次修改main分支上的内容
+<<<<<<< HEAD
 哈哈哈哈哈哈
+=======
+哈哈哈哈哈哈
+添加reset命令
+添加rebase命令
+>>>>>>> c84f525 (添加rebase命令)
