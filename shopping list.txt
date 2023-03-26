@@ -11,3 +11,4 @@ feature1
 修改main分支上的内容
 第二次修改main分支上的内容
 哈哈哈哈哈哈
+测试commit --amend命令
