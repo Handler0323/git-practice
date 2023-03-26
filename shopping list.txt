@@ -12,3 +12,4 @@ feature1
 第二次修改main分支上的内容
 哈哈哈哈哈哈
 添加reset命令
+添加rebase命令
